@@ -24,7 +24,8 @@ https://user-images.githubusercontent.com/118451240/202902756-c637de66-7bcb-44a5
 
 ### 2. Luau Island | Orchid Mystery
 
-  https://www.youtube.com/watch?v=ygKTtuZ5LKo
+
+ [YouTube](https://www.youtube.com/watch?v=FXnLe9CSp6o)
  
 Во время разработки игрового события “Загадка орхидеи” принимала активное участие на каждом этапе: от проработки идеи и до релиза в продакшн. 
 
