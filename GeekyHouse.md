@@ -50,12 +50,6 @@
 
 ![image](https://github.com/maryran7/portfolio/assets/118451240/78e31723-ea04-41d6-a40e-f0ec9b17bc2c)
 
-##### Локация 3
 
-![image](https://github.com/maryran7/portfolio/assets/118451240/8b8bb2dc-0945-4155-8c26-5dbfff0d2c91)
-
-![image](https://github.com/maryran7/portfolio/assets/118451240/ada6ddd4-b044-4a2a-b273-cbcd1bcc2dfd)
-
-![image](https://github.com/maryran7/portfolio/assets/118451240/dbf2dec6-6eb5-42d5-942b-b3de4bff4c37)
 
 
