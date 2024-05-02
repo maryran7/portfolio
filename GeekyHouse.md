@@ -39,12 +39,9 @@
 
 ![image (11)](https://github.com/maryran7/portfolio/assets/118451240/f35ca2b2-6e89-4143-bdaf-783a184154f1)
 
-
 ![image](https://github.com/maryran7/portfolio/assets/118451240/f390015f-b0e7-47b9-8c57-851611aeeb44)
 
-
 ![image](https://github.com/maryran7/portfolio/assets/118451240/b64d2843-ee72-4409-9189-f7590e316f84)
-
 
 ![image](https://github.com/maryran7/portfolio/assets/118451240/db479747-611b-4673-bb47-78d3eeb476c8)
 
@@ -56,5 +53,8 @@
 
 ![image](https://github.com/maryran7/portfolio/assets/118451240/78e31723-ea04-41d6-a40e-f0ec9b17bc2c)
 
+![image (13)](https://github.com/maryran7/portfolio/assets/118451240/af6a08a0-a2be-4446-b43c-d0d1d91206ca)
 
+![image (14)](https://github.com/maryran7/portfolio/assets/118451240/049cdcaf-6778-4994-be8e-03eadfe1a671)
 
+![image (15)](https://github.com/maryran7/portfolio/assets/118451240/dd0f1296-56f7-472f-b101-f373c37a3390)
