@@ -36,6 +36,10 @@
 
 #### Модуль Экспедиций 
 ##### Локация 1
+
+![image (11)](https://github.com/maryran7/portfolio/assets/118451240/f35ca2b2-6e89-4143-bdaf-783a184154f1)
+
+
 ![image](https://github.com/maryran7/portfolio/assets/118451240/f390015f-b0e7-47b9-8c57-851611aeeb44)
 
 
@@ -46,10 +50,11 @@
 
 ##### Локация 2
 
+![image (12)](https://github.com/maryran7/portfolio/assets/118451240/47ee92c6-4321-48ec-97a3-e516903ae2f6)
+
 ![image](https://github.com/maryran7/portfolio/assets/118451240/c5f7c5ba-c0a0-4dd0-8518-a39b4cfc6430)
 
 ![image](https://github.com/maryran7/portfolio/assets/118451240/78e31723-ea04-41d6-a40e-f0ec9b17bc2c)
-
 
 
 
