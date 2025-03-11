@@ -45,11 +45,7 @@
 
 
 Ивент "Секреты Винчи" локация выполнена в сеттинге тропических джунглей и подводных пещер
-![image](https://github.com/user-attachments/assets/1489cbe7-2556-4a42-ae13-2e2675b0b0b4)
-![image](https://github.com/user-attachments/assets/6174157a-dc12-4939-a91f-44fb5ad7bdcf)
-![image](https://github.com/user-attachments/assets/86753212-df26-4085-87b0-c7f6364b955e)
-![image](https://github.com/user-attachments/assets/a11b64d0-c3bc-475f-9902-fd3793875012)
-![image](https://github.com/user-attachments/assets/179ef12b-1c9a-4cd1-971b-7817a914e86c)
+
 ![Uploading image.png…]()
 
 Ивент Coming soon...
