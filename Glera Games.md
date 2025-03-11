@@ -42,6 +42,9 @@
 ![image](https://github.com/user-attachments/assets/59f01194-7cb8-40a6-b968-d629c506d6f2)
 
 Ивент "Однажды на Карибах" локация выполнена в сеттинге джунглей  
+![image](https://github.com/user-attachments/assets/3f3d28f8-7e7c-4862-817b-504090bb524e)
+![image](https://github.com/user-attachments/assets/33f95409-c865-4785-84eb-7bcb42c967ac)
+![image](https://github.com/user-attachments/assets/db4825e4-72bb-424b-83f4-bf7d24f30778)
 
 
 Ивент "Секреты Винчи" локация выполнена в сеттинге тропических джунглей и подводных пещер
