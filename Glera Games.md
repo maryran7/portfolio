@@ -1,4 +1,5 @@
 
+# Glera Games
 
 ## Road Trip
 
@@ -38,12 +39,13 @@
 ![image](https://github.com/user-attachments/assets/a1675cf8-34b1-4077-a7cf-b8070acbac9e)
 ![image](https://github.com/user-attachments/assets/46976168-cdb2-433c-9ae9-c6d74fea1379)
 ![image](https://github.com/user-attachments/assets/45163815-46ca-40c0-ab96-1ce48cb9a5a1)
-![image](https://github.com/user-attachments/assets/1489cbe7-2556-4a42-ae13-2e2675b0b0b4)
-![image](https://github.com/user-attachments/assets/59f01194-7cb8-40a6-b968-d629c506d6f2)# Glera Games
+![image](https://github.com/user-attachments/assets/59f01194-7cb8-40a6-b968-d629c506d6f2)
+
 Ивент "Однажды на Карибах" локация выполнена в сеттинге джунглей  
 
 
 Ивент "Секреты Винчи" локация выполнена в сеттинге тропических джунглей и подводных пещер
+![image](https://github.com/user-attachments/assets/1489cbe7-2556-4a42-ae13-2e2675b0b0b4)
 ![image](https://github.com/user-attachments/assets/6174157a-dc12-4939-a91f-44fb5ad7bdcf)
 ![image](https://github.com/user-attachments/assets/86753212-df26-4085-87b0-c7f6364b955e)
 ![image](https://github.com/user-attachments/assets/a11b64d0-c3bc-475f-9902-fd3793875012)
