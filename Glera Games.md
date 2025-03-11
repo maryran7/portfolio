@@ -25,10 +25,10 @@
 ![image](https://github.com/user-attachments/assets/0c5bd17d-8b48-42a0-bcb2-09949a2cabc6)
 ![image](https://github.com/user-attachments/assets/371147f4-9e8e-4f36-acf4-d89751973311)
 ![image](https://github.com/user-attachments/assets/37305c20-87ff-45fb-b2b7-3bb2414b127a)
-
+![image](https://github.com/user-attachments/assets/2f521642-c637-417d-adf8-76ba56b34c2a)
 Ивент "Монстрвилль", локации выполнены в сеттинге парковки и супермаркета (интерьер), средней школы (интерьер) и городского парка 
 Супермаркет + парковка 
-![image](https://github.com/user-attachments/assets/2f521642-c637-417d-adf8-76ba56b34c2a)
+
 ![image](https://github.com/user-attachments/assets/d1440030-80b6-43ad-8a4b-b327226494df)
 ![image](https://github.com/user-attachments/assets/0b1bce3f-494e-444f-98ea-428cfc0edcdb)
 Школа + городок 
