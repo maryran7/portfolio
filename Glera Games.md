@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/59f01194-7cb8-40a6-b968-d629c506d6f2)# Glera Games
+
 
 ## Road Trip
 
@@ -40,7 +40,7 @@
 ![image](https://github.com/user-attachments/assets/46976168-cdb2-433c-9ae9-c6d74fea1379)
 ![image](https://github.com/user-attachments/assets/45163815-46ca-40c0-ab96-1ce48cb9a5a1)
 ![image](https://github.com/user-attachments/assets/1489cbe7-2556-4a42-ae13-2e2675b0b0b4)
-
+![image](https://github.com/user-attachments/assets/59f01194-7cb8-40a6-b968-d629c506d6f2)# Glera Games
 Ивент "Однажды на Карибах" локация выполнена в сеттинге джунглей  
 
 
